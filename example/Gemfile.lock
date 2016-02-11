@@ -1,0 +1,22 @@
+GIT
+  remote: https://github.com/IvanShamatov/racknroll
+  revision: 9bb1d2fe692df2e897c26578f2a3f5b958054ba1
+  specs:
+    racknroll (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.4)
+    shotgun (0.9.1)
+      rack (>= 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  racknroll!
+  shotgun
+
+BUNDLED WITH
+   1.10.6

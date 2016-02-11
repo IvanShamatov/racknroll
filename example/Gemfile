@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem 'racknroll', github: 'IvanShamatov/racknroll'
+gem 'racknroll', git: 'https://github.com/IvanShamatov/racknroll'
 gem 'shotgun'
