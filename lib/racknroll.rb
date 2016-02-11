@@ -1,5 +1,9 @@
 require "racknroll/version"
 
 module Racknroll
-  # Your code goes here...
+  class Base 
+    def call(end) 
+
+    end
+  end
 end
